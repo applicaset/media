@@ -9,6 +9,9 @@ bin/
 *.db-shm
 *.db-wal
 
+# Uploaded files
+buildset-media/
+
 # Node dependencies
 node_modules/
 
